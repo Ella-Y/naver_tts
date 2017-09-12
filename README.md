@@ -5,7 +5,7 @@ node.js version: 6.11.3
 omxplayer는 jessie 이후로 기본으로 깔려있습니다.
 
 ### 기본설치
--------
+------------------------
     npm install node-omxplayer
 만약 lite버전이라면 omxplayer를 깔아야 합니다.
   sudo apt-get install omxplayer
